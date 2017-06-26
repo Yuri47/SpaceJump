@@ -1,0 +1,330 @@
+fileFormatVersion: 2
+guid: 19578e9b8d2e38645b054e274b0c4d17
+timeCreated: 1465930576
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: GoldSprite_0
+    21300002: GoldSprite_1
+    21300004: GoldSprite_2
+    21300006: GoldSprite_3
+    21300008: GoldSprite_4
+    21300010: GoldSprite_5
+    21300012: GoldSprite_6
+    21300014: GoldSprite_7
+    21300016: GoldSprite_8
+    21300018: GoldSprite_9
+    21300020: GoldSprite_10
+    21300022: GoldSprite_11
+    21300024: GoldSprite_12
+    21300026: GoldSprite_13
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: GoldSprite_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 9
+        width: 154
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 50.18, y: 61.68}
+        - {x: 34.18, y: 65.68}
+        - {x: -37.82, y: 65.68}
+        - {x: -65.82, y: 33.68}
+        - {x: -65.82, y: -49.32}
+        - {x: -31.82, y: -64.32}
+        - {x: 57.18, y: -64.32}
+        - {x: 67.18, y: -35.32}
+        - {x: 67.18, y: 46.68}
+    - name: GoldSprite_1
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 8
+        width: 147
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.36667, y: 66.32667}
+        - {x: -30.633331, y: 66.32667}
+        - {x: -62.63333, y: 41.326668}
+        - {x: -62.63333, y: -38.673332}
+        - {x: -39.63333, y: -64.67333}
+        - {x: 28.366669, y: -64.67333}
+        - {x: 30.366669, y: -63.673332}
+        - {x: 40.36667, y: -56.673332}
+        - {x: 64.36667, y: -39.673332}
+        - {x: 64.36667, y: 51.326668}
+    - name: GoldSprite_2
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 9
+        width: 108
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.08667, y: 65.68}
+        - {x: -28.91333, y: 65.68}
+        - {x: -45.91333, y: 34.68}
+        - {x: -45.91333, y: -31.32}
+        - {x: -25.91333, y: -64.32}
+        - {x: 29.08667, y: -64.32}
+        - {x: 47.08667, y: -40.32}
+        - {x: 47.08667, y: 27.68}
+        - {x: 41.08667, y: 54.68}
+    - name: GoldSprite_3
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 10
+        width: 28
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GoldSprite_4
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 9
+        width: 108
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.686646, y: 65.68}
+        - {x: -45.686646, y: -54.32}
+        - {x: -24.686646, y: -64.32}
+        - {x: 41.313354, y: -64.32}
+        - {x: 47.313354, y: -59.32}
+        - {x: 47.313354, y: 42.68}
+        - {x: 41.313354, y: 65.68}
+    - name: GoldSprite_5
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 7
+        width: 135
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.56665, y: 66.973335}
+        - {x: -51.56665, y: 60.973335}
+        - {x: -57.56665, y: 32.973335}
+        - {x: -57.56665, y: -52.026665}
+        - {x: -40.56665, y: -65.026665}
+        - {x: 35.43335, y: -65.026665}
+        - {x: 59.43335, y: -42.026665}
+        - {x: 59.43335, y: 52.973335}
+        - {x: 33.43335, y: 66.973335}
+    - name: GoldSprite_6
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 9
+        width: 154
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.73999, y: 65.68}
+        - {x: -65.73999, y: 33.68}
+        - {x: -65.73999, y: -23.32}
+        - {x: -60.73999, y: -38.32}
+        - {x: -26.73999, y: -64.32}
+        - {x: 28.26001, y: -64.32}
+        - {x: 46.26001, y: -60.32}
+        - {x: 67.26001, y: -37.32}
+        - {x: 67.26001, y: 32.68}
+        - {x: 54.26001, y: 65.68}
+    - name: GoldSprite_7
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 9
+        width: 155
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 57.97339, y: 65.68}
+        - {x: -62.02661, y: 65.68}
+        - {x: -66.02661, y: 52.68}
+        - {x: -66.02661, y: -57.32}
+        - {x: -49.02661, y: -64.32}
+        - {x: 49.97339, y: -64.32}
+        - {x: 67.97339, y: -46.32}
+        - {x: 67.97339, y: 36.68}
+        - {x: 59.97339, y: 64.68}
+    - name: GoldSprite_8
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 8
+        width: 148
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.253296, y: 66.32667}
+        - {x: -63.253296, y: 42.326668}
+        - {x: -63.253296, y: -44.673332}
+        - {x: -23.253296, y: -64.67333}
+        - {x: 46.746704, y: -64.67333}
+        - {x: 64.746704, y: -39.673332}
+        - {x: 64.746704, y: 58.326668}
+        - {x: 37.746704, y: 66.32667}
+    - name: GoldSprite_9
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 9
+        width: 107
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.41333, y: 65.68}
+        - {x: -37.41333, y: 46.68}
+        - {x: -45.41333, y: 30.68}
+        - {x: -45.41333, y: -40.32}
+        - {x: -31.41333, y: -64.32}
+        - {x: 39.58667, y: -64.32}
+        - {x: 46.58667, y: -55.32}
+        - {x: 46.58667, y: 44.68}
+        - {x: 36.58667, y: 65.68}
+    - name: GoldSprite_10
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 10
+        width: 28
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GoldSprite_11
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 5
+        width: 107
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.313354, y: 65.26667}
+        - {x: -29.686646, y: 65.26667}
+        - {x: -45.686646, y: 44.26667}
+        - {x: -45.686646, y: -41.73333}
+        - {x: -21.686646, y: -64.73333}
+        - {x: 19.313354, y: -64.73333}
+        - {x: 40.313354, y: -46.73333}
+        - {x: 47.313354, y: -27.73333}
+        - {x: 47.313354, y: 56.26667}
+    - name: GoldSprite_12
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 6
+        width: 135
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.91992, y: 66.12}
+        - {x: -57.91992, y: 35.120003}
+        - {x: -57.91992, y: -53.879997}
+        - {x: -37.91992, y: -65.88}
+        - {x: 42.08008, y: -65.88}
+        - {x: 58.08008, y: -34.879997}
+        - {x: 58.08008, y: 36.120003}
+        - {x: 35.08008, y: 66.12}
+    - name: GoldSprite_13
+      rect:
+        serializedVersion: 2
+        x: 2238
+        y: 9
+        width: 154
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.73999, y: 65.68}
+        - {x: -65.73999, y: 34.68}
+        - {x: -65.73999, y: -52.32}
+        - {x: -60.73999, y: -64.32}
+        - {x: 59.26001, y: -64.32}
+        - {x: 67.26001, y: -53.32}
+        - {x: 67.26001, y: 36.68}
+        - {x: 47.26001, y: 65.68}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
